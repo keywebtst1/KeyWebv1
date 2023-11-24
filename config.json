@@ -1,5 +1,6 @@
 {
     "settings": {
+        "theme": "fb",
         "onedriveClientId": "0b096be8-9837-4e80-9cc1-a7620682a2f1",
         "onedriveTenantId": "consumers"
     }
